@@ -12,7 +12,8 @@ public class Buscar {
 		String nPaginasStrg = JOptionPane.showInputDialog("Estamos tendo dificuldade em localizar. Você lembra quantas páginas ele possuia?");
 		int nPaginasInt = Integer.parseInt(nPaginasStrg);
 		JOptionPane.showMessageDialog(null, "LIVRO ENCONTRADO!\nO livro é " + titulo + " do autor " + autor + " que possui um total de " + nPaginasInt + " páginas");
-		JOptionPane.showMessageDialog(null, "OBRIGADO PELA ATENÇÃO :)");
+		JOptionPane.showMessageDialog(null, "OBRIGADO PELA ATENÇÃO E VOLTE SEMPRE:)");
+		
     }
 
 }
