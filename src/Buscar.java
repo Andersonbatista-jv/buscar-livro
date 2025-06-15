@@ -13,8 +13,6 @@ public class Buscar {
 		int nPaginasInt = Integer.parseInt(nPaginasStrg);
 		JOptionPane.showMessageDialog(null, "LIVRO ENCONTRADO!\nO livro é " + titulo + " do autor " + autor + " que possui um total de " + nPaginasInt + " páginas");
 		JOptionPane.showMessageDialog(null, "OBRIGADO PELA ATENÇÃO E VOLTE SEMPRE:)");
-		JOptionPane.showMessageDialog(null, "OBRIGADO PELA ATENÇÃO E VOLTE SEMPRE:)");
-		
     }
 
 }
