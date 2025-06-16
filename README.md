@@ -1,1 +1,1 @@
-criando só pra testar
+Esse foi um código que eu escrir enquanto eu estava estudando as funções básicas do JOptionpane. Algo relativamente simples, mas que é de quando importância pra meu aprendizado. Acredito que a melhor forma de fixar e aprender alguma coisa é através da prática.
